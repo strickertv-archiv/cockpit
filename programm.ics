@@ -1,0 +1,48 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Stricker//Sendeprogramm//DE
+X-WR-CALNAME:Stricker.TV – Sendungen & Live
+X-WR-TIMEZONE:Europe/Zurich
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:stricker-job-52@stricker.tv
+DTSTAMP:20261013T141843Z
+DTSTART:20261011T160000Z
+DTEND:20261011T161000Z
+SUMMARY:Stricker.TV: Röstis Ladezwang und die vergoldeten Parkplätze
+DESCRIPTION:Langformat · Facebook, Locals, Rumble, Telegram, Tiktok, X, Youtube
+END:VEVENT
+BEGIN:VEVENT
+UID:stricker-job-53@stricker.tv
+DTSTAMP:20261013T141843Z
+DTSTART:20261011T070000Z
+DTEND:20261011T073808Z
+SUMMARY:Stricker.TV: Corona\, Putin\, KI: Wer verdient an deiner Angst?
+DESCRIPTION:Langformat · Facebook, Locals, Rumble, Telegram, X, Youtube
+END:VEVENT
+BEGIN:VEVENT
+UID:stricker-job-48@stricker.tv
+DTSTAMP:20261013T141843Z
+DTSTART:20261010T150000Z
+DTEND:20261010T151053Z
+SUMMARY:Stricker.TV: Trump bestellt Diesel bei Putin. Die EU schweigt
+DESCRIPTION:Langformat · Facebook, Locals, Rumble, Telegram, X, Youtube
+END:VEVENT
+BEGIN:VEVENT
+UID:stricker-job-41@stricker.tv
+DTSTAMP:20261013T141843Z
+DTSTART:20261008T132900Z
+DTEND:20261008T134210Z
+SUMMARY:Stricker.TV: Ein EU-Botschafter benotet unser Parlament
+DESCRIPTION:Langformat · Facebook, Locals, Rumble, Telegram, X, Youtube
+END:VEVENT
+BEGIN:VEVENT
+UID:stricker-job-36@stricker.tv
+DTSTAMP:20261013T141843Z
+DTSTART:20261008T112400Z
+DTEND:20261008T113948Z
+SUMMARY:Stricker.TV: Wie du in irren Zeiten den Verstand nicht verlierst
+DESCRIPTION:Langformat · Facebook, Locals, Rumble, Telegram, X, Youtube
+END:VEVENT
+END:VCALENDAR
